@@ -25,3 +25,7 @@ yarn dev
 Because of the private repository, the repo could not get deployed on the GitHub pages so the above command will start the application on [http://localhost:3000/](http://localhost:3000).
 
 ## Demo
+
+
+https://github.com/saraparsa13/qgpt/assets/52171220/29877752-0c34-4f99-b1cb-f50ef7d1abc0
+
