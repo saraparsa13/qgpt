@@ -22,4 +22,6 @@ From the root directory, we can run the following command to start the applicati
 yarn dev
 ```
 
-The above command will start the application on [http://localhost:3000/](http://localhost:3000).
+Because of the private repository, the repo could not get deployed on the GitHub pages so the above command will start the application on [http://localhost:3000/](http://localhost:3000).
+
+## Demo
