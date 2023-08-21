@@ -33,6 +33,5 @@ https://github.com/saraparsa13/qgpt/assets/52171220/29877752-0c34-4f99-b1cb-f50e
   | config |  Styling   | Fetch Data | Formik  | localstorage
 |:---------|:----------:|:----------:|:-------:|--------------:|
 |     4    |      3     |      1     |    3    |       2       | 
-|          |            |            |         |               |
 
   
