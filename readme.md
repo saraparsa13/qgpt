@@ -1,12 +1,12 @@
 ## Overview
 
-This boilerplate is built using the following technologies:
+This project is built using the following technologies:
 
-1. [Chakra UI](https://chakra-ui.com/)
-2. [TypeScript]
-3. [NextJs]
-4. [Formik]
-5. [Responsive]
+1. Chakra UI
+2. TypeScript
+3. NextJs
+4. Formik
+5. Responsive
 
 ### **Install necessary dependencies for the frontend application**
 
