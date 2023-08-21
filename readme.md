@@ -29,3 +29,8 @@ Because of the private repository, the repo could not get deployed on the GitHub
 
 https://github.com/saraparsa13/qgpt/assets/52171220/29877752-0c34-4f99-b1cb-f50ef7d1abc0
 
+## Progress
+config | Styling | Fetch Data | Formik | localstorage 
+------ | ------- |            |        |
+  4    |    3    |     1      |   3    |     2
+  
