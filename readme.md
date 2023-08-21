@@ -11,7 +11,7 @@ This project is built using the following technologies:
 ### **Install necessary dependencies for the frontend application**
 
 ```sh
-cd portfolio && yarn install
+cd qgpt && yarn install
 ```
 
 ### **Start the application**
